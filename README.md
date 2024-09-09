@@ -1,0 +1,2 @@
+# cs2-forbiddennames
+ 
